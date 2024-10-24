@@ -24,4 +24,7 @@ if (tipo == "impar")
 {
     Console.WriteLine(contI);
 }
-else if (tipo == ""
+else if (tipo == "par")
+{
+    Console.WriteLine(contP);
+}
